@@ -21,8 +21,8 @@ This Streamlit application demonstrates a Q&A chatbot using Google's Gemini Gene
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/yash-raj202134/Conversational-Q-A-Chatbot.git
+   cd Conversational-Q-A-Chatbot
    ```
 2. Create a Virtual Environment:
 ```bash
